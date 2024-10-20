@@ -1,0 +1,12 @@
+C:\Ujwal\MG\Projects\SuperConfigManager\bin\Debug\net6.0\SuperConfigManager.deps.json
+C:\Ujwal\MG\Projects\SuperConfigManager\bin\Debug\net6.0\SuperConfigManager.dll
+C:\Ujwal\MG\Projects\SuperConfigManager\bin\Debug\net6.0\SuperConfigManager.pdb
+C:\Ujwal\MG\Projects\SuperConfigManager\obj\Debug\net6.0\SuperConfigManager.csproj.AssemblyReference.cache
+C:\Ujwal\MG\Projects\SuperConfigManager\obj\Debug\net6.0\SuperConfigManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ujwal\MG\Projects\SuperConfigManager\obj\Debug\net6.0\SuperConfigManager.AssemblyInfoInputs.cache
+C:\Ujwal\MG\Projects\SuperConfigManager\obj\Debug\net6.0\SuperConfigManager.AssemblyInfo.cs
+C:\Ujwal\MG\Projects\SuperConfigManager\obj\Debug\net6.0\SuperConfigManager.csproj.CoreCompileInputs.cache
+C:\Ujwal\MG\Projects\SuperConfigManager\obj\Debug\net6.0\SuperConfigManager.dll
+C:\Ujwal\MG\Projects\SuperConfigManager\obj\Debug\net6.0\refint\SuperConfigManager.dll
+C:\Ujwal\MG\Projects\SuperConfigManager\obj\Debug\net6.0\SuperConfigManager.pdb
+C:\Ujwal\MG\Projects\SuperConfigManager\obj\Debug\net6.0\ref\SuperConfigManager.dll
